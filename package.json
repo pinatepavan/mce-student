@@ -1,0 +1,20 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000c\u0000e\u0000-\u0000s\u0000t\u0000u\u0000d\u0000e\u0000n\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000m\u0000c\u0000e\u0000-\u0000s\u0000t\u0000u\u0000d\u0000e\u0000n\u0000t\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000 \u0000P\u0000a\u0000v\u0000a\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinatepavan/mce-student.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinatepavan/mce-student/issues"
+  },
+  "homepage": "https://github.com/pinatepavan/mce-student#readme"
+}
